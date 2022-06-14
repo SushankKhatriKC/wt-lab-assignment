@@ -1,0 +1,39 @@
+ h1 {
+    margin-left: 600px;
+  }
+  html {
+    font-size: 68.5%;
+  }
+  h1::after {
+    position: absolute;
+    left: 0;
+    width: 127rem;
+    height: 1px;
+    content: " ";
+    display: block;
+    background-color: black;
+  }
+  .container {
+    width: 100%;
+    height: 94.2vh;
+  }
+  .box {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 2.4rem;
+  }
+  .one {
+    background-color:blue;
+  }
+  .two {
+    background-color: yellow;
+    left: 100px;
+  }
+  .three {
+    background-color: green;
+    left: 200px;
+  }
