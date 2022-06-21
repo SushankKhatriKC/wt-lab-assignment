@@ -1,5 +1,5 @@
     
-###What is an Array?
+#What is an Array?
 An array is a special variable, which can hold more than one value at a time.
 
 If you have a list of items (a list of car names, for example), storing the cars in single variables could look like this:
@@ -22,6 +22,7 @@ In PHP, there are three types of arrays:
 -Indexed arrays - Arrays with a numeric index
 -Associative arrays - Arrays with named keys
 -Multidimensional arrays - Arrays containing one or more arrays.
+
 ###Sorting
 -The elements in an array can be sorted in alphabetical or numerical order, descending or ascending.
 
